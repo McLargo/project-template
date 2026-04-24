@@ -1,17 +1,28 @@
-# Project template
+# Project templates
 
-When starting a new project, there are some common steps that need to be taken.
-This template is a guide to help you get started and who is involved in the
-process.
+The objetive of this repository is to have a collection of the most used
+templates when working in a project. I will try to keep them up-to-date, add
+those templates and documents that I found more useful.
 
-## Steps on a new project
+Of course, this templates can vary from project to project (nothing is set in
+stone), but it is a good place to gather all, instead of having them scattered
+in different places.
 
-1. Handover meeting with engineering team (XX/XX/20XX)
+It is divided in different sections:
 
-2. Kickoff meeting with customer (XX/XX/20XX)
+- **Ramping up** - documents related to the first steps of a project, such as
+  the handover meeting, kickoff meeting, etc.
 
-3. Call with technical team (XX/XX/20XX)
+## Structure and nomenclature in a project
 
-4. Call with product team (XX/XX/20XX)
+Usually, when creating new documents in a project , I will use the following
+nomenclature:
 
-5. Fill overview document
+- Create a new folder with the name of the project, where the non-technical
+  documents will be stored.
+- Create a new folder, called `docs` in the root of the project, where the
+  technical documents will be stored.
+- Format name of the document: `20XX-MM-DD-document-name.md` (for non-technical
+  documents) and `document-name.md` (for technical documents). For those
+  technical documents that requires versioning, I will use the following format:
+  `document-name-XXX.md` (filling XXX with leading zeros).
