@@ -12,6 +12,11 @@ It is divided in different sections:
 
 - **Ramping up** - documents related to the first steps of a project, such as
   the handover meeting, kickoff meeting, etc.
+- **Technical** - documents related to the technical aspects of the project,
+  such as the architecture decision records (ADR), readme templates for python/go, and
+  definition of done (DoD) and definition of ready (DoR).
+- **Team** - documents related to the team, such as the team roles and skill
+  matrix, glossary, etc.
 
 ## Structure and nomenclature in a project
 
@@ -22,7 +27,7 @@ nomenclature:
   documents will be stored.
 - Create a new folder, called `docs` in the root of the project, where the
   technical documents will be stored.
-- Format name of the document: `20XX-MM-DD-document-name.md` (for non-technical
-  documents) and `document-name.md` (for technical documents). For those
-  technical documents that requires versioning, I will use the following format:
-  `document-name-XXX.md` (filling XXX with leading zeros).
+- Format name of the non-technical document: `20XX-MM-DD-document-name.md`
+- Format name of the technical document: `document-name.md`.
+- Format name of the versioned document: `document-name-XXX.md` (filling XXX
+  with leading zeros).
