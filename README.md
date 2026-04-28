@@ -13,8 +13,8 @@ It is divided in different sections:
 - **Ramping up** - documents related to the first steps of a project, such as
   the handover meeting, kickoff meeting, etc.
 - **Technical** - documents related to the technical aspects of the project,
-  such as the architecture decision records (ADR), readme templates for python/go, and
-  definition of done (DoD) and definition of ready (DoR).
+  such as the architecture decision records (ADR), readme templates for
+  python/go, and definition of done (DoD) and definition of ready (DoR).
 - **Team** - documents related to the team, such as the team roles and skill
   matrix, glossary, etc.
 
